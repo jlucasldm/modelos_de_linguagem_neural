@@ -1,0 +1,9 @@
+A partir do código disponibilizado em 2-word-embeddings.ipynb:
+* Fazer uma cópia do notebook para o seu drive.
+* Plotar as palavras usando o modelo pre-treinado, ao invés do modelo que treinamos. Enviar apenas o plot do gráfico com vetores em 2D na tarefa.
+* Gerar embeddings de frases. Escolher 10 frases do livro e fazer o plot das frases. Enviar o plot com os vetores em 2D.
+
+Considerando o conjunto de dados utilizado em 2-sentiment.ipynb,
+* Fazer uma cópia do notebook para o seu drive.
+* Aproveitar o código de 2-word-embeddings.ipynb que for necessário.
+* Plotar as palavras após tokenização usando o modelo pre-treinado utilizado no notebook 2-word-embeddings.ipynb, ao invés do modelo que treinamos,  e usando o modelo que treinamento em 2-sentiment. Enviar o plot de ambos como imagem na tarefa.
