@@ -1,0 +1,112 @@
+Mais similar a  😀 no BERTweetBR é 🫡 com similaridade de 0.8688
+Mais similar a  😀 no BERTimbau é 😄 com similaridade de 0.7195
+Mais similar a  😃 em ambos é 😄 com diferença de similaridade de 0.9660 e 0.8984
+Mais similar a  😄 em ambos é 😃 com diferença de similaridade de 0.9660 e 0.8984
+Mais similar a  😁 no BERTweetBR é 😙 com similaridade de 0.9757
+Mais similar a  😁 no BERTimbau é 😊 com similaridade de 0.8790
+Mais similar a  😆 no BERTweetBR é 😄 com similaridade de 0.9642
+Mais similar a  😆 no BERTimbau é 😃 com similaridade de 0.8873
+Mais similar a  😅 em ambos é 😆 com diferença de similaridade de 0.9525 e 0.6439
+Mais similar a  🤣 no BERTweetBR é 🤫 com similaridade de 0.8843
+Mais similar a  🤣 no BERTimbau é 😂 com similaridade de 0.7691
+Mais similar a  😂 no BERTweetBR é 🤫 com similaridade de 0.9084
+Mais similar a  😂 no BERTimbau é 🤣 com similaridade de 0.7691
+Mais similar a  🙂 no BERTweetBR é 😪 com similaridade de 0.8575
+Mais similar a  🙂 no BERTimbau é 😊 com similaridade de 0.7331
+Mais similar a  🙃 em ambos é 🙂‍↕️ com diferença de similaridade de 0.9087 e 0.6653
+Mais similar a  🫠 no BERTweetBR é 🤪 com similaridade de 0.8798
+Mais similar a  🫠 no BERTimbau é 🥵 com similaridade de 0.6640
+Mais similar a  😉 no BERTweetBR é 🤒 com similaridade de 0.9378
+Mais similar a  😉 no BERTimbau é 😜 com similaridade de 0.7642
+Mais similar a  😊 no BERTweetBR é 😙 com similaridade de 0.9736
+Mais similar a  😊 no BERTimbau é 😁 com similaridade de 0.8790
+Mais similar a  😇 no BERTweetBR é 🥰 com similaridade de 0.9467
+Mais similar a  😇 no BERTimbau é 😄 com similaridade de 0.8219
+Mais similar a  🥰 no BERTweetBR é 😇 com similaridade de 0.9467
+Mais similar a  🥰 no BERTimbau é 😍 com similaridade de 0.8425
+Mais similar a  😍 no BERTweetBR é 😊 com similaridade de 0.9573
+Mais similar a  😍 no BERTimbau é 😄 com similaridade de 0.8619
+Mais similar a  🤩 no BERTweetBR é 🫣 com similaridade de 0.9131
+Mais similar a  🤩 no BERTimbau é 🙄 com similaridade de 0.6732
+Mais similar a  😘 no BERTweetBR é 🤒 com similaridade de 0.8926
+Mais similar a  😘 no BERTimbau é 😗 com similaridade de 0.6561
+Mais similar a  😗 no BERTweetBR é 🫨 com similaridade de 0.8840
+Mais similar a  😗 no BERTimbau é 😚 com similaridade de 0.7392
+Mais similar a  😚 em ambos é 😙 com diferença de similaridade de 0.9481 e 0.8519
+Mais similar a  😙 no BERTweetBR é 😁 com similaridade de 0.9757
+Mais similar a  😙 no BERTimbau é 😄 com similaridade de 0.8546
+Mais similar a  🥲 no BERTweetBR é 😇 com similaridade de 0.9263
+Mais similar a  🥲 no BERTimbau é 😍 com similaridade de 0.8329
+Mais similar a  😋 no BERTweetBR é 😬 com similaridade de 0.8894
+Mais similar a  😋 no BERTimbau é 🤮 com similaridade de 0.6193
+Mais similar a  😛 em ambos é 🤭 com diferença de similaridade de 0.8897 e 0.6500
+Mais similar a  😜 em ambos é 😝 com diferença de similaridade de 0.9496 e 0.7896
+Mais similar a  🤪 no BERTweetBR é 🫠 com similaridade de 0.8798
+Mais similar a  🤪 no BERTimbau é 😀 com similaridade de 0.5057
+Mais similar a  😝 em ambos é 🫢 com diferença de similaridade de 0.9581 e 0.8482
+Mais similar a  🤑 no BERTweetBR é 😉 com similaridade de 0.9280
+Mais similar a  🤑 no BERTimbau é 🤒 com similaridade de 0.4444
+Mais similar a  🤗 no BERTweetBR é 🫠 com similaridade de 0.8627
+Mais similar a  🤗 no BERTimbau é 😗 com similaridade de 0.7008
+Mais similar a  🤭 em ambos é 🫢 com diferença de similaridade de 0.9519 e 0.8930
+Mais similar a  🫢 no BERTweetBR é 😝 com similaridade de 0.9581
+Mais similar a  🫢 no BERTimbau é 🤭 com similaridade de 0.8930
+Mais similar a  🫣 em ambos é 😉 com diferença de similaridade de 0.9315 e 0.7597
+Mais similar a  🤫 no BERTweetBR é 😂 com similaridade de 0.9084
+Mais similar a  🤫 no BERTimbau é 😉 com similaridade de 0.5176
+Mais similar a  🤔 no BERTweetBR é 🤪 com similaridade de 0.8471
+Mais similar a  🤔 no BERTimbau é 😑 com similaridade de 0.5123
+Mais similar a  🫡 no BERTweetBR é 😀 com similaridade de 0.8688
+Mais similar a  🫡 no BERTimbau é 🤗 com similaridade de 0.6234
+Mais similar a  🤐 no BERTweetBR é 😮‍💨 com similaridade de 0.9334
+Mais similar a  🤐 no BERTimbau é 🫥 com similaridade de 0.5401
+Mais similar a  🤨 no BERTweetBR é 🤒 com similaridade de 0.9252
+Mais similar a  🤨 no BERTimbau é 😝 com similaridade de 0.6964
+Mais similar a  😐 no BERTweetBR é 🤤 com similaridade de 0.8900
+Mais similar a  😐 no BERTimbau é 🤔 com similaridade de 0.4671
+Mais similar a  😑 no BERTweetBR é 😬 com similaridade de 0.8814
+Mais similar a  😑 no BERTimbau é 😔 com similaridade de 0.5736
+Mais similar a  😶 em ambos é 😶‍🌫️ com diferença de similaridade de 0.8985 e 0.6108
+Mais similar a  🫥 no BERTweetBR é 😄 com similaridade de 0.9249
+Mais similar a  🫥 no BERTimbau é 🤕 com similaridade de 0.6014
+Mais similar a  😶‍🌫️ no BERTweetBR é 🤐 com similaridade de 0.9028
+Mais similar a  😶‍🌫️ no BERTimbau é 😶 com similaridade de 0.6108
+Mais similar a  😏 no BERTweetBR é 🤒 com similaridade de 0.9220
+Mais similar a  😏 no BERTimbau é 😄 com similaridade de 0.7958
+Mais similar a  😒 no BERTweetBR é 😶 com similaridade de 0.8360
+Mais similar a  😒 no BERTimbau é 😔 com similaridade de 0.7407
+Mais similar a  🙄 em ambos é 😆 com diferença de similaridade de 0.9288 e 0.7675
+Mais similar a  😬 no BERTweetBR é 🫣 com similaridade de 0.8936
+Mais similar a  😬 no BERTimbau é 😒 com similaridade de 0.5153
+Mais similar a  😮‍💨 no BERTweetBR é 🤐 com similaridade de 0.9334
+Mais similar a  😮‍💨 no BERTimbau é 🫢 com similaridade de 0.6390
+Mais similar a  🥵 no BERTweetBR é 😂 com similaridade de 0.9035
+Mais similar a  🥵 no BERTimbau é 🫠 com similaridade de 0.6640
+Mais similar a  🤧 no BERTweetBR é 🤪 com similaridade de 0.8572
+Mais similar a  🤧 no BERTimbau é 🤮 com similaridade de 0.6354
+Mais similar a  🤮 no BERTweetBR é 😌 com similaridade de 0.8696
+Mais similar a  🤮 no BERTimbau é 🤧 com similaridade de 0.6354
+Mais similar a  🤢 no BERTweetBR é 😀 com similaridade de 0.8626
+Mais similar a  🤢 no BERTimbau é 😔 com similaridade de 0.6152
+Mais similar a  🤕 no BERTweetBR é 😍 com similaridade de 0.9037
+Mais similar a  🤕 no BERTimbau é 😝 com similaridade de 0.6449
+Mais similar a  🤒 no BERTweetBR é 😉 com similaridade de 0.9378
+Mais similar a  🤒 no BERTimbau é 😷 com similaridade de 0.5217
+Mais similar a  😷 no BERTweetBR é 😉 com similaridade de 0.9269
+Mais similar a  😷 no BERTimbau é 🤒 com similaridade de 0.5217
+Mais similar a  😴 no BERTweetBR é 🤪 com similaridade de 0.8686
+Mais similar a  😴 no BERTimbau é 😪 com similaridade de 0.6496
+Mais similar a  🤤 no BERTweetBR é 😐 com similaridade de 0.8900
+Mais similar a  🤤 no BERTimbau é 😗 com similaridade de 0.5530
+Mais similar a  😪 no BERTweetBR é 🙂 com similaridade de 0.8575
+Mais similar a  😪 no BERTimbau é 😴 com similaridade de 0.6496
+Mais similar a  😔 no BERTweetBR é 😗 com similaridade de 0.8796
+Mais similar a  😔 no BERTimbau é 😒 com similaridade de 0.7407
+Mais similar a  😌 no BERTweetBR é 🤮 com similaridade de 0.8696
+Mais similar a  😌 no BERTimbau é 😔 com similaridade de 0.6282
+Mais similar a  🙂‍↕️ em ambos é 🙂‍↔️ com diferença de similaridade de 0.9564 e 0.9360
+Mais similar a  🙂‍↔️ em ambos é 🙂‍↕️ com diferença de similaridade de 0.9564 e 0.9360
+Mais similar a  🫨 no BERTweetBR é 😗 com similaridade de 0.8840
+Mais similar a  🫨 no BERTimbau é 🤢 com similaridade de 0.6006
+Mais similar a  🤥 no BERTweetBR é 😂 com similaridade de 0.8923
+Mais similar a  🤥 no BERTimbau é 😏 com similaridade de 0.5081

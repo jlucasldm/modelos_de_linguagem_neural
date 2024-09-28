@@ -1,0 +1,176 @@
+Emoji: 😀 (:rosto_risonho:
+	Mais similar a  😀 no BERTweetBR é 😒 (:rosto_aborrecido:) com similaridade de 0.9192
+	Mais similar a  😀 no BERTimbau é 😄 (:rosto_risonho_com_olhos_sorridentes:) com similaridade de 0.7195
+Emoji: 😃 (:rosto_risonho_com_olhos_bem_abertos:
+	Mais similar a  😃 no BERTweetBR é 😆 (:rosto_risonho_com_olhos_semicerrados:) com similaridade de 0.9729
+	Mais similar a  😃 no BERTimbau é 😄 (:rosto_risonho_com_olhos_sorridentes:) com similaridade de 0.8984
+Emoji: 😄 (:rosto_risonho_com_olhos_sorridentes:
+	Mais similar a  😄 no BERTweetBR é 😆 (:rosto_risonho_com_olhos_semicerrados:) com similaridade de 0.9765
+	Mais similar a  😄 no BERTimbau é 😃 (:rosto_risonho_com_olhos_bem_abertos:) com similaridade de 0.8984
+Emoji: 😁 (:rosto_contente_com_olhos_sorridentes:
+	Mais similar a  😁 em ambos é 😊 (:rosto_sorridente_com_olhos_sorridentes:) com diferença de similaridade de 0.9841 e 0.8790
+Emoji: 😆 (:rosto_risonho_com_olhos_semicerrados:
+	Mais similar a  😆 no BERTweetBR é 😄 (:rosto_risonho_com_olhos_sorridentes:) com similaridade de 0.9765
+	Mais similar a  😆 no BERTimbau é 😃 (:rosto_risonho_com_olhos_bem_abertos:) com similaridade de 0.8873
+Emoji: 😅 (:rosto_risonho_com_gota_de_suor:
+	Mais similar a  😅 no BERTweetBR é 😄 (:rosto_risonho_com_olhos_sorridentes:) com similaridade de 0.9574
+	Mais similar a  😅 no BERTimbau é 😆 (:rosto_risonho_com_olhos_semicerrados:) com similaridade de 0.6439
+Emoji: 🤣 (:rolando_no_chão_de_rir:
+	Mais similar a  🤣 em ambos é 😂 (:rosto_chorando_de_rir:) com diferença de similaridade de 0.9137 e 0.7691
+Emoji: 😂 (:rosto_chorando_de_rir:
+	Mais similar a  😂 no BERTweetBR é 🥵 (:rosto_fervendo_de_calor:) com similaridade de 0.9358
+	Mais similar a  😂 no BERTimbau é 🤣 (:rolando_no_chão_de_rir:) com similaridade de 0.7691
+Emoji: 🙂 (:rosto_levemente_sorridente:
+	Mais similar a  🙂 no BERTweetBR é 🥲 (:rosto_sorridente_com_lágrima:) com similaridade de 0.9102
+	Mais similar a  🙂 no BERTimbau é 😊 (:rosto_sorridente_com_olhos_sorridentes:) com similaridade de 0.7331
+Emoji: 🙃 (:rosto_de_cabeça_para_baixo:
+	Mais similar a  🙃 no BERTweetBR é 😬 (:rosto_expressando_desagrado:) com similaridade de 0.9329
+	Mais similar a  🙃 no BERTimbau é 🙂‍↕️ (:cabeça_balançando_na_vertical:) com similaridade de 0.6653
+Emoji: 🫠 (:rosto_derretendo:
+	Mais similar a  🫠 no BERTweetBR é 🤔 (:rosto_pensativo:) com similaridade de 0.9175
+	Mais similar a  🫠 no BERTimbau é 🥵 (:rosto_fervendo_de_calor:) com similaridade de 0.6640
+Emoji: 😉 (:rosto_com_olho_piscando:
+	Mais similar a  😉 no BERTweetBR é 🫣 (:rosto_com_olho_espiando:) com similaridade de 0.9581
+	Mais similar a  😉 no BERTimbau é 😜 (:rosto_piscando_e_com_língua_para_fora:) com similaridade de 0.7642
+Emoji: 😊 (:rosto_sorridente_com_olhos_sorridentes:
+	Mais similar a  😊 em ambos é 😁 (:rosto_contente_com_olhos_sorridentes:) com diferença de similaridade de 0.9841 e 0.8790
+Emoji: 😇 (:rosto_sorridente_com_auréola:
+	Mais similar a  😇 no BERTweetBR é 🥰 (:rosto_sorridente_com_3_corações:) com similaridade de 0.9471
+	Mais similar a  😇 no BERTimbau é 😄 (:rosto_risonho_com_olhos_sorridentes:) com similaridade de 0.8219
+Emoji: 🥰 (:rosto_sorridente_com_3_corações:
+	Mais similar a  🥰 em ambos é 😍 (:rosto_sorridente_com_olhos_de_coração:) com diferença de similaridade de 0.9524 e 0.8425
+Emoji: 😍 (:rosto_sorridente_com_olhos_de_coração:
+	Mais similar a  😍 no BERTweetBR é 😊 (:rosto_sorridente_com_olhos_sorridentes:) com similaridade de 0.9664
+	Mais similar a  😍 no BERTimbau é 😄 (:rosto_risonho_com_olhos_sorridentes:) com similaridade de 0.8619
+Emoji: 🤩 (:rosto_com_olhar_maravilhado:
+	Mais similar a  🤩 no BERTweetBR é 🤐 (:rosto_com_boca_de_zíper:) com similaridade de 0.9339
+	Mais similar a  🤩 no BERTimbau é 🙄 (:rosto_com_olhos_revirados:) com similaridade de 0.6732
+Emoji: 😘 (:rosto_mandando_um_beijo:
+	Mais similar a  😘 no BERTweetBR é 😂 (:rosto_chorando_de_rir:) com similaridade de 0.8887
+	Mais similar a  😘 no BERTimbau é 😗 (:rosto_beijando:) com similaridade de 0.6561
+Emoji: 😗 (:rosto_beijando:
+	Mais similar a  😗 no BERTweetBR é 🤧 (:rosto_espirrando:) com similaridade de 0.9163
+	Mais similar a  😗 no BERTimbau é 😚 (:rosto_beijando_com_olhos_fechados:) com similaridade de 0.7392
+Emoji: 😚 (:rosto_beijando_com_olhos_fechados:
+	Mais similar a  😚 em ambos é 😙 (:rosto_beijando_com_olhos_sorridentes:) com diferença de similaridade de 0.9599 e 0.8519
+Emoji: 😙 (:rosto_beijando_com_olhos_sorridentes:
+	Mais similar a  😙 no BERTweetBR é 😁 (:rosto_contente_com_olhos_sorridentes:) com similaridade de 0.9826
+	Mais similar a  😙 no BERTimbau é 😄 (:rosto_risonho_com_olhos_sorridentes:) com similaridade de 0.8546
+Emoji: 🥲 (:rosto_sorridente_com_lágrima:
+	Mais similar a  🥲 no BERTweetBR é 😇 (:rosto_sorridente_com_auréola:) com similaridade de 0.9350
+	Mais similar a  🥲 no BERTimbau é 😍 (:rosto_sorridente_com_olhos_de_coração:) com similaridade de 0.8329
+Emoji: 😋 (:rosto_saboreando_comida:
+	Mais similar a  😋 no BERTweetBR é 🫣 (:rosto_com_olho_espiando:) com similaridade de 0.9268
+	Mais similar a  😋 no BERTimbau é 🤮 (:rosto_vomitando:) com similaridade de 0.6193
+Emoji: 😛 (:rosto_mostrando_a_língua:
+	Mais similar a  😛 no BERTweetBR é 😑 (:rosto_inexpressivo:) com similaridade de 0.9083
+	Mais similar a  😛 no BERTimbau é 🤭 (:rosto_com_a_mão_sobre_a_boca:) com similaridade de 0.6500
+Emoji: 😜 (:rosto_piscando_e_com_língua_para_fora:
+	Mais similar a  😜 em ambos é 😝 (:rosto_com_olhos_semicerrados_e_língua_para_fora:) com diferença de similaridade de 0.9602 e 0.7896
+Emoji: 🤪 (:rosto_bizarro:
+	Mais similar a  🤪 no BERTweetBR é 🤔 (:rosto_pensativo:) com similaridade de 0.9160
+	Mais similar a  🤪 no BERTimbau é 😀 (:rosto_risonho:) com similaridade de 0.5057
+Emoji: 😝 (:rosto_com_olhos_semicerrados_e_língua_para_fora:
+	Mais similar a  😝 no BERTweetBR é 😜 (:rosto_piscando_e_com_língua_para_fora:) com similaridade de 0.9602
+	Mais similar a  😝 no BERTimbau é 🫢 (:rosto_com_olhos_abertos_e_mão_sobre_a_boca:) com similaridade de 0.8482
+Emoji: 🤑 (:rosto_com_cifrões:
+	Mais similar a  🤑 no BERTweetBR é 😉 (:rosto_com_olho_piscando:) com similaridade de 0.9337
+	Mais similar a  🤑 no BERTimbau é 🤒 (:rosto_com_termômetro:) com similaridade de 0.4444
+Emoji: 🤗 (:rosto_abraçando:
+	Mais similar a  🤗 no BERTweetBR é 🤧 (:rosto_espirrando:) com similaridade de 0.9258
+	Mais similar a  🤗 no BERTimbau é 😗 (:rosto_beijando:) com similaridade de 0.7008
+Emoji: 🤭 (:rosto_com_a_mão_sobre_a_boca:
+	Mais similar a  🤭 em ambos é 🫢 (:rosto_com_olhos_abertos_e_mão_sobre_a_boca:) com diferença de similaridade de 0.9648 e 0.8930
+Emoji: 🫢 (:rosto_com_olhos_abertos_e_mão_sobre_a_boca:
+	Mais similar a  🫢 em ambos é 🤭 (:rosto_com_a_mão_sobre_a_boca:) com diferença de similaridade de 0.9648 e 0.8930
+Emoji: 🫣 (:rosto_com_olho_espiando:
+	Mais similar a  🫣 em ambos é 😉 (:rosto_com_olho_piscando:) com diferença de similaridade de 0.9581 e 0.7597
+Emoji: 🤫 (:rosto_fazendo_sinal_de_silêncio:
+	Mais similar a  🤫 no BERTweetBR é 😂 (:rosto_chorando_de_rir:) com similaridade de 0.9194
+	Mais similar a  🤫 no BERTimbau é 😉 (:rosto_com_olho_piscando:) com similaridade de 0.5176
+Emoji: 🤔 (:rosto_pensativo:
+	Mais similar a  🤔 no BERTweetBR é 🫨 (:rosto_tremendo:) com similaridade de 0.9193
+	Mais similar a  🤔 no BERTimbau é 😑 (:rosto_inexpressivo:) com similaridade de 0.5123
+Emoji: 🫡 (:rosto_saudando:
+	Mais similar a  🫡 no BERTweetBR é 😒 (:rosto_aborrecido:) com similaridade de 0.9170
+	Mais similar a  🫡 no BERTimbau é 🤗 (:rosto_abraçando:) com similaridade de 0.6234
+Emoji: 🤐 (:rosto_com_boca_de_zíper:
+	Mais similar a  🤐 no BERTweetBR é 😮‍💨 (:rosto_exalando:) com similaridade de 0.9554
+	Mais similar a  🤐 no BERTimbau é 🫥 (:rosto_com_linha_pontilhada:) com similaridade de 0.5401
+Emoji: 🤨 (:rosto_com_sobrancelha_levantada:
+	Mais similar a  🤨 no BERTweetBR é 🫣 (:rosto_com_olho_espiando:) com similaridade de 0.9368
+	Mais similar a  🤨 no BERTimbau é 😝 (:rosto_com_olhos_semicerrados_e_língua_para_fora:) com similaridade de 0.6964
+Emoji: 😐 (:rosto_neutro:
+	Mais similar a  😐 no BERTweetBR é 🤧 (:rosto_espirrando:) com similaridade de 0.9330
+	Mais similar a  😐 no BERTimbau é 🤔 (:rosto_pensativo:) com similaridade de 0.4671
+Emoji: 😑 (:rosto_inexpressivo:
+	Mais similar a  😑 no BERTweetBR é 😬 (:rosto_expressando_desagrado:) com similaridade de 0.9311
+	Mais similar a  😑 no BERTimbau é 😔 (:rosto_deprimido:) com similaridade de 0.5736
+Emoji: 😶 (:rosto_sem_boca:
+	Mais similar a  😶 em ambos é 😶‍🌫️ (:rosto_nas_nuvens:) com diferença de similaridade de 0.9395 e 0.6108
+Emoji: 🫥 (:rosto_com_linha_pontilhada:
+	Mais similar a  🫥 no BERTweetBR é 🫢 (:rosto_com_olhos_abertos_e_mão_sobre_a_boca:) com similaridade de 0.9359
+	Mais similar a  🫥 no BERTimbau é 🤕 (:rosto_com_atadura_na_cabeça:) com similaridade de 0.6014
+Emoji: 😶‍🌫️ (:rosto_nas_nuvens:
+	Mais similar a  😶‍🌫️ em ambos é 😶 (:rosto_sem_boca:) com diferença de similaridade de 0.9395 e 0.6108
+Emoji: 😏 (:rosto_com_sorriso_maroto:
+	Mais similar a  😏 no BERTweetBR é 😉 (:rosto_com_olho_piscando:) com similaridade de 0.9360
+	Mais similar a  😏 no BERTimbau é 😄 (:rosto_risonho_com_olhos_sorridentes:) com similaridade de 0.7958
+Emoji: 😒 (:rosto_aborrecido:
+	Mais similar a  😒 no BERTweetBR é 😀 (:rosto_risonho:) com similaridade de 0.9192
+	Mais similar a  😒 no BERTimbau é 😔 (:rosto_deprimido:) com similaridade de 0.7407
+Emoji: 🙄 (:rosto_com_olhos_revirados:
+	Mais similar a  🙄 no BERTweetBR é 😚 (:rosto_beijando_com_olhos_fechados:) com similaridade de 0.9410
+	Mais similar a  🙄 no BERTimbau é 😆 (:rosto_risonho_com_olhos_semicerrados:) com similaridade de 0.7675
+Emoji: 😬 (:rosto_expressando_desagrado:
+	Mais similar a  😬 no BERTweetBR é 🙃 (:rosto_de_cabeça_para_baixo:) com similaridade de 0.9329
+	Mais similar a  😬 no BERTimbau é 😒 (:rosto_aborrecido:) com similaridade de 0.5153
+Emoji: 😮‍💨 (:rosto_exalando:
+	Mais similar a  😮‍💨 no BERTweetBR é 🤐 (:rosto_com_boca_de_zíper:) com similaridade de 0.9554
+	Mais similar a  😮‍💨 no BERTimbau é 🫢 (:rosto_com_olhos_abertos_e_mão_sobre_a_boca:) com similaridade de 0.6390
+Emoji: 🥵 (:rosto_fervendo_de_calor:
+	Mais similar a  🥵 no BERTweetBR é 😂 (:rosto_chorando_de_rir:) com similaridade de 0.9358
+	Mais similar a  🥵 no BERTimbau é 🫠 (:rosto_derretendo:) com similaridade de 0.6640
+Emoji: 🤧 (:rosto_espirrando:
+	Mais similar a  🤧 no BERTweetBR é 😐 (:rosto_neutro:) com similaridade de 0.9330
+	Mais similar a  🤧 no BERTimbau é 🤮 (:rosto_vomitando:) com similaridade de 0.6354
+Emoji: 🤮 (:rosto_vomitando:
+	Mais similar a  🤮 no BERTweetBR é 🤔 (:rosto_pensativo:) com similaridade de 0.9183
+	Mais similar a  🤮 no BERTimbau é 🤧 (:rosto_espirrando:) com similaridade de 0.6354
+Emoji: 🤢 (:rosto_nauseado:
+	Mais similar a  🤢 no BERTweetBR é 🫡 (:rosto_saudando:) com similaridade de 0.9060
+	Mais similar a  🤢 no BERTimbau é 😔 (:rosto_deprimido:) com similaridade de 0.6152
+Emoji: 🤕 (:rosto_com_atadura_na_cabeça:
+	Mais similar a  🤕 no BERTweetBR é 😁 (:rosto_contente_com_olhos_sorridentes:) com similaridade de 0.9418
+	Mais similar a  🤕 no BERTimbau é 😝 (:rosto_com_olhos_semicerrados_e_língua_para_fora:) com similaridade de 0.6449
+Emoji: 🤒 (:rosto_com_termômetro:
+	Mais similar a  🤒 no BERTweetBR é 😉 (:rosto_com_olho_piscando:) com similaridade de 0.9469
+	Mais similar a  🤒 no BERTimbau é 😷 (:rosto_com_máscara_médica:) com similaridade de 0.5217
+Emoji: 😷 (:rosto_com_máscara_médica:
+	Mais similar a  😷 no BERTweetBR é 😏 (:rosto_com_sorriso_maroto:) com similaridade de 0.9302
+	Mais similar a  😷 no BERTimbau é 🤒 (:rosto_com_termômetro:) com similaridade de 0.5217
+Emoji: 😴 (:rosto_dormindo:
+	Mais similar a  😴 no BERTweetBR é 🤔 (:rosto_pensativo:) com similaridade de 0.9094
+	Mais similar a  😴 no BERTimbau é 😪 (:rosto_sonolento:) com similaridade de 0.6496
+Emoji: 🤤 (:rosto_babando:
+	Mais similar a  🤤 no BERTweetBR é 🤧 (:rosto_espirrando:) com similaridade de 0.9164
+	Mais similar a  🤤 no BERTimbau é 😗 (:rosto_beijando:) com similaridade de 0.5530
+Emoji: 😪 (:rosto_sonolento:
+	Mais similar a  😪 no BERTweetBR é 😒 (:rosto_aborrecido:) com similaridade de 0.9036
+	Mais similar a  😪 no BERTimbau é 😴 (:rosto_dormindo:) com similaridade de 0.6496
+Emoji: 😔 (:rosto_deprimido:
+	Mais similar a  😔 no BERTweetBR é 🤧 (:rosto_espirrando:) com similaridade de 0.9141
+	Mais similar a  😔 no BERTimbau é 😒 (:rosto_aborrecido:) com similaridade de 0.7407
+Emoji: 😌 (:rosto_aliviado:
+	Mais similar a  😌 no BERTweetBR é 🤔 (:rosto_pensativo:) com similaridade de 0.9151
+	Mais similar a  😌 no BERTimbau é 😔 (:rosto_deprimido:) com similaridade de 0.6282
+Emoji: 🙂‍↕️ (:cabeça_balançando_na_vertical:
+	Mais similar a  🙂‍↕️ em ambos é 🙂‍↔️ (:cabeça_virando_de_um_lado_para_o_outro:) com diferença de similaridade de 0.9738 e 0.9360
+Emoji: 🙂‍↔️ (:cabeça_virando_de_um_lado_para_o_outro:
+	Mais similar a  🙂‍↔️ em ambos é 🙂‍↕️ (:cabeça_balançando_na_vertical:) com diferença de similaridade de 0.9738 e 0.9360
+Emoji: 🫨 (:rosto_tremendo:
+	Mais similar a  🫨 no BERTweetBR é 🤔 (:rosto_pensativo:) com similaridade de 0.9193
+	Mais similar a  🫨 no BERTimbau é 🤢 (:rosto_nauseado:) com similaridade de 0.6006
+Emoji: 🤥 (:rosto_de_mentiroso:
+	Mais similar a  🤥 no BERTweetBR é 🥵 (:rosto_fervendo_de_calor:) com similaridade de 0.9198
+	Mais similar a  🤥 no BERTimbau é 😏 (:rosto_com_sorriso_maroto:) com similaridade de 0.5081

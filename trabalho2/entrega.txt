@@ -1,0 +1,48 @@
+CONCORDANCIA ENTRE OS MODELOS
+
+
+Emoji: 😁 (:rosto_contente_com_olhos_sorridentes:)
+	Mais similar a  😁 em ambos é 😊 (:rosto_sorridente_com_olhos_sorridentes:) com diferença de similaridade de 0.9841 e 0.8790
+    
+    O reconhecimento em ambos os modelos da similaridade entre os emojis 😁 e 😊 é coerente. 
+    Os dois emojis transmitem mensagens bastante semelhantes
+
+
+Emoji: 🤣 (:rolando_no_chão_de_rir:)
+	Mais similar a  🤣 em ambos é 😂 (:rosto_chorando_de_rir:) com diferença de similaridade de 0.9137 e 0.7691
+
+    O reconhecimento em ambos os modelos da similaridade entre os emojis 🤣 e 😂 é coerente.
+    Os dois emojis transmitem mensagens bastante semelhantes
+
+
+Emoji: 🥰 (:rosto_sorridente_com_3_corações:)
+	Mais similar a  🥰 em ambos é 😍 (:rosto_sorridente_com_olhos_de_coração:) com diferença de similaridade de 0.9524 e 0.8425
+
+    O reconhecimento em ambos os modelos da similaridade entre os emojis 🥰 e 😍 é coerente.
+    Os dois emojis transmitem mensagens bastante semelhantes
+
+
+
+DISCORDÂNCIA ENTRE OS MODELOS
+
+Emoji: 😀 (:rosto_risonho:)
+	Mais similar a  😀 no BERTweetBR é 😒 (:rosto_aborrecido:) com similaridade de 0.9192
+	Mais similar a  😀 no BERTimbau é 😄 (:rosto_risonho_com_olhos_sorridentes:) com similaridade de 0.7195
+
+    A identificação do modelo BERTweetBR do emoji 😒 como o mais similar ao emoji 😀 não parece apropriada. Os emojis expressam mensagens divergentes.
+    A identificação do modelo BERTimbau do emoji 😄 como o mais similar ao emoji 😀 parece mais apropriada, pois ambos expressam mensagens semelhantes.
+
+Emoji: 😆 (:rosto_risonho_com_olhos_semicerrados:)
+	Mais similar a  😆 no BERTweetBR é 😄 (:rosto_risonho_com_olhos_sorridentes:) com similaridade de 0.9765
+	Mais similar a  😆 no BERTimbau é 😃 (:rosto_risonho_com_olhos_bem_abertos:) com similaridade de 0.8873
+
+    Ambos os modelos identificaram emojis com mensagens semelhantes ao emoji 😆, mas o modelo BERTweetBR identificou um emoji mais similar ao emoji 😆,
+    levando em consideração o estado dos olhos do emoji.
+
+Emoji: 🙂 (:rosto_levemente_sorridente:)
+	Mais similar a  🙂 no BERTweetBR é 🥲 (:rosto_sorridente_com_lágrima:) com similaridade de 0.9102
+	Mais similar a  🙂 no BERTimbau é 😊 (:rosto_sorridente_com_olhos_sorridentes:) com similaridade de 0.7331
+
+    Ambos os modelos identificaram emojis com mensagens semelhantes ao emoji 🙂, mas o modelo BERTimbau identificou um emoji mais similar ao emoji 🙂,
+    levando em consideração a expressão da característica 'sorridente' no rosto e nos olhos. No entanto, é importante ressaltar que o emoji 🥲 também 
+    transmite uma mensagem semelhante ao emoji 🙂.
