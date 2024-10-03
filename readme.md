@@ -1,6 +1,6 @@
 # Modelos de Linguagem Neurais: fundamentos, tendências e aplicações
 
-Materiais utilizados e desenvolvidos durante o curso de capacitação em Modelos de Linguagens Neurais, fornecido pelo projeto Tomorrow, uma parceria do instituto de computação da Universidade Federal da Bahia (UFBA) e a Positivo. Curso ministrado pela professora [Aline Paes](http://lattes.cnpq.br/0506389215528790).
+Projetos desenvolvidos e materiais utilizados durante o curso de capacitação em Modelos de Linguagens Neurais, fornecido pelo projeto Tomorrow, uma parceria do instituto de computação da Universidade Federal da Bahia (UFBA) e a Positivo. Curso ministrado pela professora [Aline Paes](http://lattes.cnpq.br/0506389215528790).
 
 ## Objetivos do Curso
 Capacitar os alunos a compreender, desenvolver e aplicar modelos de linguagem baseados em redes neurais, proporcionando uma base em conceitos fundamentais, técnicas de modelagem, treinamento e avaliação, além de explorar aplicações práticas em processamento de linguagem natural (PLN) e inteligência artificial. O curso visa preparar os alunos para utilizar essas tecnologias de maneira eficaz em diversos contextos, desde pesquisa acadêmica até soluções industriais.
